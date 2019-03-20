@@ -1,0 +1,27 @@
+﻿
+.App {
+    width: 500px;
+}
+
+.App-logo {
+    
+    height: 100%;
+    width: 100%;
+}
+
+.App-header {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+
+}
+
+.App-header > h2 {
+    margin-bottom: inherit;
+    background-color: #000000;
+}
+
+.App-intro {
+    font-size: large;
+}
+

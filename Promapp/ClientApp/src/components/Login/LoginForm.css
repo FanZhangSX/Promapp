@@ -1,0 +1,17 @@
+﻿.demoForm {
+    width: 500px;
+    margin: auto;
+    background: #000000;
+}
+
+.formItem {
+    width: 80%;
+    margin:auto;
+}
+
+.formText {
+    color: white;
+    text-align: left;
+    margin: unset;
+    
+}

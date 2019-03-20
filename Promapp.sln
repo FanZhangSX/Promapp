@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Promapp", "Promapp\Promapp.csproj", "{15846BF7-14E8-47CF-9D61-F027410F0F27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Promapp.Test", "Promapp.Test\Promapp.Test.csproj", "{45B2EAF2-C4EB-4AFB-AB69-45BFFB075A96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15846BF7-14E8-47CF-9D61-F027410F0F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15846BF7-14E8-47CF-9D61-F027410F0F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15846BF7-14E8-47CF-9D61-F027410F0F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15846BF7-14E8-47CF-9D61-F027410F0F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45B2EAF2-C4EB-4AFB-AB69-45BFFB075A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B2EAF2-C4EB-4AFB-AB69-45BFFB075A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B2EAF2-C4EB-4AFB-AB69-45BFFB075A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B2EAF2-C4EB-4AFB-AB69-45BFFB075A96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5058382-B66F-4D52-A67D-5CC09CDE5491}
+	EndGlobalSection
+EndGlobal
